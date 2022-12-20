@@ -1,0 +1,23 @@
+.bg-black {
+  background: #000;
+  color: #fff; }
+
+#main-header img {
+  width: 100%;
+  height: 100%; }
+
+#main-header .por-item {
+  width: 30%; }
+  #main-header .por-item .fa {
+    font-size: 2em; }
+
+#main-header .por-item:hover {
+  opacity: 0.8;
+  cursor: pointer; }
+
+@media (min-width: 1199px) {
+  .por-item {
+    padding: 3em !important; } }
+
+.input-group-text {
+  width: 50px; }
